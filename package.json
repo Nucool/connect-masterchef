@@ -1,0 +1,10 @@
+{
+  "name": "connect-chef",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "@truffle/hdwallet-provider": "^1.5.0"
+  }
+}
